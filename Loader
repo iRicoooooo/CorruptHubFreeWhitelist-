@@ -16,7 +16,6 @@ Frame.Parent = CorruptHubScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
 Frame.Size = UDim2.new(0, 100, 0, 100)
-Frame.Dragable = true
 
 WLMenu.Name = "WLMenu"
 WLMenu.Parent = Frame
