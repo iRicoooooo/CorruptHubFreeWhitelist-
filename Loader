@@ -23,7 +23,7 @@ WLMenu.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 WLMenu.BackgroundTransparency = 1.000
 WLMenu.Position = UDim2.new(3.6500001, 0, 1.97684932, 0)
 WLMenu.Size = UDim2.new(0, 340, 0, 145)
-WLMenu.Image = "http://www.roblox.com/asset/?id=6354887658"
+WLMenu.Image = "http://www.roblox.com/asset/?id=6354887649"
 
 LogIn.Name = "LogIn"
 LogIn.Parent = WLMenu
