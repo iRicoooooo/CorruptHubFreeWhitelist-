@@ -13,15 +13,17 @@ CorruptHubScreenGui.Parent = game.CoreGui
 CorruptHubScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Frame.Parent = CorruptHubScreenGui
+Frame.Active = true
+Frame.Draggable = true
 Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Frame.BackgroundTransparency = 1.000
-Frame.Size = UDim2.new(0, 100, 0, 100)
+Frame.Size = UDim2.new(1, 0, 1, 0)
 
 WLMenu.Name = "WLMenu"
 WLMenu.Parent = Frame
 WLMenu.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 WLMenu.BackgroundTransparency = 1.000
-WLMenu.Position = UDim2.new(3.6500001, 0, 1.97684932, 0)
+WLMenu.Position = UDim2.new(0.5, 0, 0.5, 0)
 WLMenu.Size = UDim2.new(0, 340, 0, 145)
 WLMenu.Image = "http://www.roblox.com/asset/?id=6354887649"
 
